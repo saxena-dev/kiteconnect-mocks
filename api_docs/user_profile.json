@@ -1,20 +1,21 @@
 {
     "status": "success",
     "data": {
+        "user_id": "AB1234",
         "user_type": "individual",
-        "email": "XXXXXX",
-        "user_name": "Kite Connect",
-        "user_shortname": "Connect",
+        "email": "xxxyyy@gmail.com",
+        "user_name": "AxAx Bxx",
+        "user_shortname": "AxAx",
         "broker": "ZERODHA",
         "exchanges": [
-            "NSE",
-            "NFO",
             "BFO",
+            "MCX",
+            "NSE",
             "CDS",
             "BSE",
-            "MCX",
             "BCD",
-            "MF"
+            "MF",
+            "NFO"
         ],
         "products": [
             "CNC",
@@ -29,15 +30,7 @@
             "SL",
             "SL-M"
         ],
-        "avatar_url": "abc",
-        "user_id": "XX0000",
-        "api_key": "XXXXXX",
-        "access_token": "XXXXXX",
-        "public_token": "XXXXXXXX",
-        "enctoken": "XXXXXX",
-        "refresh_token": "",
-        "silo": "",
-        "login_time": "2021-01-01 16:15:14",
+        "avatar_url": null,
         "meta": {
             "demat_consent": "physical"
         }
